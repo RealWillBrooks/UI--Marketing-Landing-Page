@@ -20,8 +20,7 @@ class TabLink {
       this.tabElement.classList.add('active-tab');
       this.cards.forEach(card => card.selectCard());
     }
-}
-
-class .TabCard {
-    
-}
+  }
+  
+  class TabCard {
+   
